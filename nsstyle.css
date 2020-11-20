@@ -43,3 +43,6 @@ height: 1000%;
 .navbar .navbar-nav .dropdown-menu .dropdown-item{
   color: black !important
 }
+
+.body{
+  background-color:black}
